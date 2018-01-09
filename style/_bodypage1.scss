@@ -18,3 +18,25 @@ color: blue;
 font-weight: bold;
   margin-top: 15px;
 }
+.sidebar{
+  display: inline-block;
+  width: 20%;
+  float: left;
+  height: 550px;;
+  border-left: 1px solid black;
+}
+.categories{
+  color: lightblue;
+  margin-left: 30px;
+  margin-top: 30px;
+  font-size: 25px;
+}
+.asidelistbox{
+  margin-top: 15px;
+  margin-left: 30px;
+}
+.asidelisttext{
+  margin-top: 15px;
+  color: blue;
+
+}
