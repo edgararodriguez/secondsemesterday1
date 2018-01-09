@@ -76,4 +76,24 @@ table {
   text-decoration: none;
   color: white; }
 
+.monday {
+  color: blue; }
+
+.wordsbox {
+  width: 70%;
+  margin-left: 50px;
+  margin-top: 50px;
+  margin-right: 50px;
+  float: left;
+  display: inline-block; }
+
+.week1 {
+  color: lightblue;
+  margin-bottom: 20px;
+  font-size: 25px; }
+
+.langtext {
+  font-weight: bold;
+  margin-top: 15px; }
+
 /*# sourceMappingURL=style.css.map */
